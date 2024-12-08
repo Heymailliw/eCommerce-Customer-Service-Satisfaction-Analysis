@@ -2,7 +2,8 @@
 Machine &amp; Deep Learning in Business Final Project
 
 
-Introduction
+# Introduction
+
 This project serves as a comprehensive capstone for showcasing the application of machine
 learning (ML) and deep learning (DL) techniques within the context of eCommerce customer
 service. The objective of this project is to analyze customer feedback data to understand and
