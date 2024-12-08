@@ -1,5 +1,5 @@
 # eCommerce-Customer-Service-Satisfaction-Analysis
-Machine &amp; Deep Learning in Business Final Project
+CISD60 Fall 2024 Machine &amp; Deep Learning in Business Final Project
 
 
 # Introduction
